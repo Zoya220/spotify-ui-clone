@@ -3,8 +3,6 @@
 ![Spotify Clone Screenshot](./screenshot.png) 
 > A static, visual replica of the Spotify web player interface, built using pure HTML and CSS to practice front-end development skills.
 
-**Live Demo:** [Link to your live project here]
-
 ---
 
 ## 🚀 Project Overview
